@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f884771-8495-4503-a1cd-36b692403b26" name="Default" comment="">
+    <list default="true" id="8f884771-8495-4503-a1cd-36b692403b26" name="Default" comment="Initial Commit">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="first_app.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="8f884771-8495-4503-a1cd-36b692403b26" time="1370320983681" ignored="false" />
+    <file path="/Dummy.txt" changelist="8f884771-8495-4503-a1cd-36b692403b26" time="1370321050942" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -413,7 +413,11 @@
       <created>1370320991490</created>
       <updated>1370320991490</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Initial Commit">
+      <created>1370321036482</created>
+      <updated>1370321036482</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
