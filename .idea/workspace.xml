@@ -6,7 +6,7 @@
     </list>
     <ignored path="first_app.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="8f884771-8495-4503-a1cd-36b692403b26" time="1370320687292" ignored="false" />
+    <file path="/Dummy.txt" changelist="8f884771-8495-4503-a1cd-36b692403b26" time="1370320983681" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
       <file leaf-file-name="workspace.xml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-3.0383213">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-3.7773724">
               <folding />
             </state>
           </provider>
@@ -72,6 +72,7 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/Gemfile" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
       </list>
     </option>
   </component>
@@ -408,7 +409,11 @@
       <created>1370320695169</created>
       <updated>1370320695169</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <created>1370320991490</created>
+      <updated>1370320991490</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -552,7 +557,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-3.0383213">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-3.7773724">
           <folding />
         </state>
       </provider>
